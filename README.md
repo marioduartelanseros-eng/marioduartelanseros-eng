@@ -5,7 +5,6 @@ I build things where software meets hardware: smart-glasses apps, embedded devic
 
 - 🕶️ Building apps for the **Even Realities G2** smart glasses
 - 🖥️ Running a homelab: RAID NAS, Docker services, 3D-printed rack
-- 🎯 Looking for **software engineering internships for summer 2027**
 
 ## 🚀 Featured projects
 
